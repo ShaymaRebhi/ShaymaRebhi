@@ -22,7 +22,7 @@
 - 💬 Ask me about programming in general, I am always available to help and learn together. 
 - ⚡ Fun fact: my food taste amazing most of the time 🤭 
  
- ## Find me around the web 🌎: <a href="#"><img align="left" width="150" height="150"  src="https://gist.github.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9.js"></a>
+ ## Find me around the web 🌎: <a href="#"><img align="left" width="150" height="150"  src="https://gist.githubusercontent.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"></a>
 
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 
