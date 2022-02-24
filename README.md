@@ -1,5 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shayma
 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shayma.rebhi@esprit.tn)
+
 ![Daughter,Software engineer to be ,Full Stack Developer ,and Gamer (Occasionally) 🤣](https://i.postimg.cc/LsfSXpFd/ezgif-com-gif-maker.gif)
 
  I'm a 24 years old Computer Science engineer student at (ESPRIT) in Tunisia. I am completely passionate about frontend/backend development, MERN-stack and also very interested in data analysis 
@@ -26,7 +28,6 @@
 
 - Sharing updates on <a href="https://www.linkedin.com/in/shayma-rebhi-2bba42143/">LinkedIn</a> 💼
 - Tweeting the news <a href="https://twitter.com/RebhiShayma"> Twitter </a> ✍🏾
--[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shayma.rebhi@esprit.tn)
  
 
 
