@@ -25,7 +25,9 @@
  ## Find me around the web 🌎: <a href="#"><img align="left" width="150" height="150"  src="https://gist.githubusercontent.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"></a>
 
 - Sharing updates on <a href="https://www.linkedin.com/in/shayma-rebhi-2bba42143/">LinkedIn</a> 💼
- - Tweeting the news <a href="https://twitter.com/RebhiShayma"> Twitter </a> ✍🏾
+- Tweeting the news <a href="https://twitter.com/RebhiShayma"> Twitter </a> ✍🏾
+-![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shayma.rebhi@esprit.tn)
+ 
 
 
  
