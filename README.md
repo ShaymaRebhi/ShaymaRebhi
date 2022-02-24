@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shayma
 #### Daughter,Software engineer to be ,Full Stack Developer ,and Gamer (Occasionally) 🤣
-![Daughter,Software engineer to be ,Full Stack Developer ,and Gamer (Occasionally) 🤣](https://postimg.cc/ZC5mnBmV)
+![Daughter,Software engineer to be ,Full Stack Developer ,and Gamer (Occasionally) 🤣](https://i.postimg.cc/J4bzTZ2V/Ajouter-un-titre.gif)
 
  I'm a 24 years old Computer Science engineer student at (ESPRIT) in Tunisia. I am completely passionate about frontend/backend development, MERN-stack and also very interested in data analysis 
 
