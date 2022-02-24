@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shayma
 
-(https://i.postimg.cc/LsfSXpFd/ezgif-com-gif-maker.gif)
+![Daughter,Software engineer to be ,Full Stack Developer ,and Gamer (Occasionally) 🤣](https://i.postimg.cc/LsfSXpFd/ezgif-com-gif-maker.gif)
 
  I'm a 24 years old Computer Science engineer student at (ESPRIT) in Tunisia. I am completely passionate about frontend/backend development, MERN-stack and also very interested in data analysis 
 
