@@ -22,9 +22,8 @@
 - 💬 Ask me about programming in general, I am always available to help and learn together. 
 - ⚡ Fun fact: my food taste amazing most of the time 🤭 
  
- ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+ ## Find me around the web 🌎: <a href="#"><img align="left" width="150" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2F2d20af60d709805c55fd784ca7cba4b9&psig=AOvVaw09ldWJ1aNzIyCglxNVg89A&ust=1645823128768000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMju4YmfmfYCFQAAAAAdAAAAABB9"></a>
+
 - Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 
 
