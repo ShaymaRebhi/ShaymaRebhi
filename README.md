@@ -26,7 +26,7 @@
 
 - Sharing updates on <a href="https://www.linkedin.com/in/shayma-rebhi-2bba42143/">LinkedIn</a> 💼
 - Tweeting the news <a href="https://twitter.com/RebhiShayma"> Twitter </a> ✍🏾
--![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shayma.rebhi@esprit.tn)
+-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shayma.rebhi@esprit.tn)
  
 
 
