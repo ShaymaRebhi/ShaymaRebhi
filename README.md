@@ -24,7 +24,9 @@
  
  ## Find me around the web 🌎: <a href="#"><img align="left" width="150" height="150"  src="https://gist.githubusercontent.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"></a>
 
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+- Sharing updates on <a href="https://www.linkedin.com/in/shayma-rebhi-2bba42143/">LinkedIn</a> 💼
+ - Tweeting the news <a href="https://twitter.com/RebhiShayma"> Twitter </a> ✍🏾
+
 
 
 [<img src=https://postimg.cc/ZC5mnBmV' alt='github' height='40'>](https://github.com/ShaymaRebhi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shayma-rebhi-2bba42143/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/RebhiShayma)  
