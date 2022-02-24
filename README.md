@@ -31,7 +31,5 @@
 
 <a href="https://github-readme-stats.vercel.app/api?username=ShaymaRebhi&show_icons=true">  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mouheb Mhamdi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/> </a>
   ## 📊 My Github Stats
-   <p align="center">
-    < a href ="https://github-readme-streak-stats.herokuapp.com/?user=ShaymaRebhi"></a>
- <a href ="https://gpvc.arturio.dev/ShaymaRebhi"></a>  
-  </p>
+ 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaymaRebhi&show_icons=true) 
