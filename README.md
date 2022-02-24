@@ -28,10 +28,11 @@
  - Tweeting the news <a href="https://twitter.com/RebhiShayma"> Twitter </a> ✍🏾
 
 
-
+ <p align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaymaRebhi&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShaymaRebhi)  
 
 ![Profile views](https://gpvc.arturio.dev/ShaymaRebhi)  
+  </p>
