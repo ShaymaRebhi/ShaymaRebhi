@@ -1,10 +1,20 @@
-### Hi there 👋, I'm Shayma
-#### Daughter,Software engineer to be ,Full Stack Developer ,and Gamer (Occasionally) 🤣
-![Daughter,Software engineer to be ,Full Stack Developer ,and Gamer (Occasionally) 🤣](https://i.postimg.cc/LsfSXpFd/ezgif-com-gif-maker.gif)
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shayma
+
+(https://i.postimg.cc/LsfSXpFd/ezgif-com-gif-maker.gif)
 
  I'm a 24 years old Computer Science engineer student at (ESPRIT) in Tunisia. I am completely passionate about frontend/backend development, MERN-stack and also very interested in data analysis 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+## 🚀 Languages and Tools:
+<p align="center">
+<a href="https://spring.io"><img src="https://img.icons8.com/color/50/000000/spring-logo.png" alt="spring" width="45" height="45" /></a>
+<a href="https://angular.io"><img src="https://img.icons8.com/color/48/000000/angularjs.png"  width="45" height="45"/></a>
+<a href="https://nodejs.org"><img src="https://img.icons8.com/color/48/000000/nodejs.png"  width="45" height="45"/></a>
+<a href="https://getbootstrap.com"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="45" height="45"/></a>
+<a href="https://www.w3.org/html/"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="45" height="45"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45"/></a>
+<a href="https://neo4j.com"><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="45" height="45"/></a>
+<a href="https://www.mysql.com"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="45" height="45"/></a>
+<a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/000000/git.png" width="45" height="45"/></a>
 
 - 🔭 I’m currently working on A MERN project  
 - 🌱 I’m currently learning MERN 
