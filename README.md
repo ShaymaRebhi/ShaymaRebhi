@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shayma
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shayma.rebhi@esprit.tn)
+
 
 ![Daughter,Software engineer to be ,Full Stack Developer ,and Gamer (Occasionally) 🤣](https://i.postimg.cc/LsfSXpFd/ezgif-com-gif-maker.gif)
 
